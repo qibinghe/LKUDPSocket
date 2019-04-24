@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LKUDPSocket_Example' do
+  pod 'LKUDPSocket', :path => '../'
+
+  target 'LKUDPSocket_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
