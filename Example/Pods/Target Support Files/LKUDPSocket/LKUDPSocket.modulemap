@@ -1,0 +1,6 @@
+framework module LKUDPSocket {
+  umbrella header "LKUDPSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}

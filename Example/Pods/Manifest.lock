@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LKUDPSocket (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LKUDPSocket (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LKUDPSocket:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LKUDPSocket: 28ee43edceef992df1856c1496e05a90f31d8ff1
+
+PODFILE CHECKSUM: 65fea31b3618939b00e5508257ef65da0a5e06a7
+
+COCOAPODS: 1.5.3

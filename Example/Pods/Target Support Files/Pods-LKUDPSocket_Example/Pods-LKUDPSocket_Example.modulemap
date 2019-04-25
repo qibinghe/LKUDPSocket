@@ -1,0 +1,6 @@
+framework module Pods_LKUDPSocket_Example {
+  umbrella header "Pods-LKUDPSocket_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

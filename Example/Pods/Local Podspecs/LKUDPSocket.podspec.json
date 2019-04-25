@@ -1,0 +1,22 @@
+{
+  "name": "LKUDPSocket",
+  "version": "0.1.0",
+  "summary": "A short description of LKUDPSocket.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qibinghe/LKUDPSocket",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qibinghe": "3055508038@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qibinghe/LKUDPSocket.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LKUDPSocket/Classes/**/*"
+}
